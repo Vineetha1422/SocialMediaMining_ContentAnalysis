@@ -1,15 +1,16 @@
 # Analyzing Public Reactions to AI Copyright Issues
 
 ## Overview
-This project analyzes public sentiment regarding copyright challenges posed by generative AI systems like DALL-E and Midjourney. With the U.S. Copyright Office receiving 10,000 formal responses but limited insight into broader public opinion, this study examines 50 Twitter/X comments to identify key themes in the AI copyright debate. The research addresses urgent questions about intellectual property rights, ethical AI training practices, and economic impacts on creators[1][2].
+This project analyzes public sentiment regarding copyright challenges posed by generative AI systems like DALL-E and Midjourney. With the U.S. Copyright Office receiving 10,000 formal responses but limited insight into broader public opinion, this study examines 50 Twitter/X comments to identify key themes in the AI copyright debate. The research addresses urgent questions about intellectual property rights, ethical AI training practices, and economic impacts on creators.
 
 ## Tools
+- **Data Collection**: Twitter/X advanced search (manual)
+- **Libraries**: 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue) 
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-darkblue) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-orange) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12-purple) 
-![NLTK](https://img.shields.io/badge/NLTK-3.8-green)  
-![Twitter API](https://img.shields.io/badge/Twitter%20API-Advanced%20Search-lightblue) 
+![NLTK](https://img.shields.io/badge/NLTK-3.8-green)   
 ![Qualitative Analysis](https://img.shields.io/badge/Analysis-Qualitative%20Content-red)
 
 ## Approach
