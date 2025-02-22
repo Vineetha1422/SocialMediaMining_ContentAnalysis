@@ -5,7 +5,8 @@ This project analyzes public sentiment regarding copyright challenges posed by g
 
 ## Tools
 - **Data Collection**: Twitter/X advanced search (manual)
-- **Libraries**: 
+- **Libraries**:
+  
 ![Python](https://img.shields.io/badge/Python-3.9+-blue) 
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-darkblue) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-orange) 
